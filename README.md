@@ -1,24 +1,5 @@
-# README
+# Javascript Synthesizer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A fun project using keyboard inputs and howler.js.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![th-403657836](https://github.com/JJOhYeah/synthesizer/assets/25302190/f2ebf437-5673-415d-87fd-0422cfdc98be)
